@@ -4,6 +4,8 @@ This repository contains a VHDL-based digital clock system designed specifically
 
 If you use a different development board or FPGA, some modifications and adjustments may be necessary to adapt the design to your hardware.
 
+![fpga_digital_time](https://github.com/user-attachments/assets/937ba6d1-42fd-4daf-927a-1a2184637862)
+
 ## Tools Used
 
 - **Quartus Prime 20.1** – for synthesis, fitting, timing analysis, and programming the FPGA.
